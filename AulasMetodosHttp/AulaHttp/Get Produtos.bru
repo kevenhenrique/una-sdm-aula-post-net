@@ -1,0 +1,16 @@
+meta {
+  name: Get Produtos
+  type: http
+  seq: 2
+}
+
+get {
+  url: http://localhost:5011/api/Produtos
+  body: json
+  auth: inherit
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

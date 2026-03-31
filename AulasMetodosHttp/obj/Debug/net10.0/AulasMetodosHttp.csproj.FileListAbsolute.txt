@@ -1,0 +1,4 @@
+C:\Users\keven\Documents\4 semestre faculdade\AulasMetodosHttp\bin\Debug\net10.0\AulasMetodosHttp.exe
+C:\Users\keven\Documents\4 semestre faculdade\AulasMetodosHttp\bin\Debug\net10.0\AulasMetodosHttp.dll
+C:\Users\keven\Documents\4 semestre faculdade\AulasMetodosHttp\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\keven\Documents\4 semestre faculdade\AulasMetodosHttp\bin\Debug\net10.0\Microsoft.OpenApi.dll
